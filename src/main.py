@@ -1,15 +1,14 @@
-from calculator import add
-from text_analyzer import count_words
+from calculator import add, subtract, multiply, divide
 
 
 def main():
-    print("AI Engineering Day 6")
+    a = 20
+    b = 10
 
-    result = add(10, 20)
-    print("Addition:", result)
-
-    text = "AI Engineering is interesting"
-    print("Word count:", count_words(text))
+    print("Addition:", add(a, b))
+    print("Subtraction:", subtract(a, b))
+    print("Multiplication:", multiply(a, b))
+    print("Division:", divide(a, b))
 
 
 if __name__ == "__main__":
