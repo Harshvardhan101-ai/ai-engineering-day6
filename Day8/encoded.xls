@@ -1,0 +1,10 @@
+numerical__Age,numerical__Experience,categorical__Department_CSE,categorical__Department_Finance,categorical__Department_HR,categorical__Department_IT,categorical__Education_B.Tech,categorical__Education_M.Tech,categorical__Education_MBA,categorical__Education_MCA
+22.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+25.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+28.0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+28.5,2.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+30.0,4.875,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+32.0,8.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+27.0,4.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+35.0,10.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+29.0,6.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
